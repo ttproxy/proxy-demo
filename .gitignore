@@ -1,0 +1,9 @@
+.DS_Store
+
+.idea
+.vscode
+
+*.pyc
+*.class
+
+node_modules
